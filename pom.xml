@@ -12,7 +12,7 @@
 	<artifactId>personal-blog-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>personal-blog-api</name>
-	<description>A Personal Blog API with a simple frontend</description>
+	<description>A Personal Blog API with a basic frontend</description>
 	<url/>
 	<licenses>
 		<license/>
